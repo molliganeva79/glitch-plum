@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/",
+      "source": "/core",
       "destination": "https://discord.com/invite/6ACmVtKmHx",
       "permanent": false
     }
